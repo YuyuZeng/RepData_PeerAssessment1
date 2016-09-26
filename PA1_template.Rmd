@@ -3,8 +3,8 @@ title: "ReproducibleResearchProject1"
 author: "Yuyu Zeng"
 date: "September 25, 2016"
 output: 
-  html_document: 
-    keep_md: true 
+  html_document:
+   keep_md: true
 ---
 
 # Data analysis about personal movement using activity monitoring devices
